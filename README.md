@@ -154,3 +154,35 @@
  - [ ] AWS Trusted Advisor
  - [x] AWS CloudTrail
  ##
+
+
+   **26- Which pillar of the AWS Well-Architected Framework focuses on using computing resources in ways that meet system requirements?**
+ - [ ] Reliability
+ - [ ] Operational Excellence
+ - [ ] Security
+ - [x]  Performance Efficiency
+ ##
+**27- Which statement best describes AWS Marketplace?**
+ - [ ] A resource that provides guidance, architectural reviews, and ongoing communication with your company as you plan, deploy, and optimize your applications
+ - [ ] An online tool that inspects your AWS environment and provides real-time guidance in accordance with AWS best practices
+ - [ ] A resource that can answer questions about best practices and assist with troubleshooting issues
+ - [x] A digital catalog that includes thousands of software listings from independent software vendors
+ ##
+ **28- Which statement best describes an Availability Zone?**
+ - [x] A fully isolated portion of the AWS global infrastructure
+ - [ ] A separate geographical location with multiple locations that are isolated from each other
+ - [ ]  The server from which Amazon CloudFront gets your files
+ - [ ] A site that Amazon CloudFront uses to cache copies of content for faster delivery to users at any location
+ ##
+  **29- You want to store data in a volume that is attached to an Amazon EC2 instance. Which service should you use?**
+ - [ ] Amazon Simple Storage Service (Amazon S3)
+ - [ ] Amazon ElastiCache
+ - [ ] AWS Lambda
+ - [x] Amazon Elastic Block Store (Amazon EBS)
+ ##
+   **30- Which action can you perform in Amazon CloudFront?**
+ - [ ] Provision an isolated section of the AWS Cloud to launch resources in a virtual network that you define.
+ - [ ] Provision resources by using programming languages or a text file.
+ - [ ] Run infrastructure in a hybrid cloud approach.
+ - [x] Deliver content to customers through a global network of edge locations.
+ ##
