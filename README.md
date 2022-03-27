@@ -93,7 +93,7 @@
  - [x] Security group
  - [ ] Subnet
  ##
-    **16- You want to send and receive messages between distributed application components. Which service should you use?**
+**16- You want to send and receive messages between distributed application components. Which service should you use?**
  - [ ] Amazon ElastiCache
  - [ ] Amazon Route 53
  - [x] Amazon Simple Queue Service (Amazon SQS)
