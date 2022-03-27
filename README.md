@@ -124,4 +124,33 @@
  - [ ] AWS Snowball
  - [ ] Amazon Redshift
  ##
-
+**21- Which statement best describes Elastic Load Balancing?**
+ - [ ] A service that enables you to set up, manage, and scale a distributed in-memory or cache environment in the cloud
+ - [ ] A service that monitors your applications and automatically adds or removes capacity from your resource groups in response to changing demand
+ - [x] A service that distributes incoming traffic across multiple targets, such as Amazon EC2 instances
+ - [ ] A service that provides data that you can use to monitor your applications, optimize resource utilization, and respond to system-wide performance changes
+ ##
+**22- You want to store data in a key-value database. Which service should you use?**
+ - [ ] Amazon DocumentDB
+ - [ ] Amazon CloudFront
+ - [x] Amazon DynamoDB
+ - [ ] Amazon RDS
+ ##
+ **23- Which statement best describes Amazon GuardDuty?**
+ - [ ] A service that checks applications for security vulnerabilities and deviations from security best practices
+ - [x] A service that provides intelligent threat detection for your AWS infrastructure and resources
+ - [ ] A service that lets you monitor network requests that come into your web applications
+ - [ ] A service that helps protect your applications against distributed denial-of-service (DDoS) attacks
+ ##
+  **24- Which service is used to run containerized applications on AWS?**
+ - [ ] Amazon SageMaker
+ - [ ] Amazon Redshift
+ - [x] Amazon Elastic Kubernetes Service (Amazon EKS)
+ - [ ] Amazon Aurora
+ ##
+   **25- Which service enables you to review details for user activities and API calls that have occurred within your AWS environment?**
+ - [ ] Amazon Inspector
+ - [ ] Amazon CloudWatch
+ - [ ] AWS Trusted Advisor
+ - [x] AWS CloudTrail
+ ##
