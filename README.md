@@ -93,3 +93,35 @@
  - [x] Security group
  - [ ] Subnet
  ##
+    **16- You want to send and receive messages between distributed application components. Which service should you use?**
+ - [ ] Amazon ElastiCache
+ - [ ] Amazon Route 53
+ - [x] Amazon Simple Queue Service (Amazon SQS)
+ - [ ]  AWS Snowball
+ ##
+**17- Which Perspective of the AWS Cloud Adoption Framework focuses on recovering IT workloads to meet the requirements of your business stakeholders?**
+ - [x] Operations Perspective
+ - [ ] Business Perspective
+ - [ ] People Perspective
+ - [ ] Governance Perspective
+ ##
+ **18- Which service enables you to build the workflows that are required for human review of machine learning predictions?**
+ - [ ] Amazon Textract
+ - [ ] Amazon Aurora
+ - [ ]  Amazon Lex
+ - [x] Amazon Augmented AI
+ ##
+  **19- Which tasks are the responsibilities of AWS? (Select TWO.)**
+ - [ ] Creating IAM users and groups
+ - [x] Configuring AWS infrastructure devices
+ - [x] Maintaining virtualization infrastructure
+ - [ ] Training company employees on how to use AWS services
+ - [ ] Configuring security groups on Amazon EC2 instances
+ ##
+   **20- Which tool is used to automate actions for AWS services and applications through scripts?**
+ - [x] AWS Command Line Interface
+ - [ ] AWS QLDB
+ - [ ] AWS Snowball
+ - [ ] Amazon Redshift
+ ##
+
