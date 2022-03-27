@@ -62,3 +62,34 @@
  - [ ] Amazon CloudFront
  - [x] AWS Snowmobile
  ##
+ **11- Which migration strategy involves changing how an application is architected and developed, typically by using cloud-native features?**
+ - [ ] Rehosting
+ - [x] Refactoring
+ - [ ] Repurchasing
+ - [ ] Replatforming
+ ##
+**12- Which component or service enables you to establish a dedicated private connection between your data center and virtual private cloud (VPC)?**
+ - [ ] Virtual private gateway
+ - [ ] Amazon CloudFront
+ - [x] AWS Direct Connect
+ - [ ] Internet gateway
+ ##
+ **13- You are running an Amazon EC2 instance and want to store data in an attached resource. Your data is temporary and will not be kept long term. Which resource should you use?**
+ - [ ] Amazon Elastic Block Store (Amazon EBS) volume
+ - [ ] Subnet
+ - [x] Instance store
+ - [ ] Amazon S3 bucket
+ ##
+  **14- In the S3 Intelligent-Tiering storage class, Amazon S3 moves objects between a frequent access tier and an infrequent access tier. Which storage classes are used for these tiers? (Select TWO.)**
+ - [ ] S3 One Zone-IA
+ - [ ] S3 Glacier Deep Archive
+ - [x] S3 Standard-IA
+ - [x] S3 Standard
+ - [ ] S3 Glacier
+ ##
+   **15- Which virtual private cloud (VPC) component controls inbound and outbound traffic for Amazon EC2 instances?**
+ - [ ] Internet gateway
+ - [ ] Network access control list
+ - [x] Security group
+ - [ ] Subnet
+ ##
