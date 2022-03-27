@@ -31,4 +31,34 @@
  - [ ] Dedicated Hosts
  - [x] Savings Plans
  ##
-
+   **6- Which statement is TRUE for AWS Lambda?**
+ - [ ] Before using AWS Lambda, you must prepay for your estimated compute time.
+ - [x] You pay only for compute time while your code is running.
+ - [ ] The first step in using AWS Lambda is provisioning a server.
+ - [ ]  To use AWS Lambda, you must configure the servers that run your code.
+ ##
+**7- Which actions can you perform in Amazon Route 53? (Select TWO.)**
+ - [x] Connect user requests to infrastructure in AWS and outside of AWS.
+ - [ ] Monitor your applications and respond to system-wide performance changes.
+ - [x] Manage DNS records for domain names.
+ - [ ] Automate the deployment of workloads into your AWS environment.
+ - [ ] Access AWS security and compliance reports and select online agreements.
+ ##
+ **8- Which service enables you to consolidate and manage multiple AWS accounts from a central location?**
+ - [ ] AWS Artifact
+ - [ ] AWS Identity and Access Management (IAM)
+ - [x]  AWS Organizations
+ - [ ] AWS Key Management Service (AWS KMS)
+ ##
+  **9- Which AWS Trusted Advisor category includes checks for your service limits and overutilized instances?**
+ - [x] Performance
+ - [ ] Security
+ - [ ]  Fault Tolerance
+ - [ ] Cost Optimization
+ ##
+   **10- Which service is used to transfer up to 100 PB of data to AWS?**
+ - [ ] Amazon Neptune
+ - [ ] AWS DeepRacer
+ - [ ] Amazon CloudFront
+ - [x] AWS Snowmobile
+ ##
